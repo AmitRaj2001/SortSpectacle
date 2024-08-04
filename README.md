@@ -1,3 +1,3 @@
 # SortSpectacle
 
-https://scintillating-bavarois-2c6ca5.netlify.app/
+https://sort-spectacle.netlify.app/
